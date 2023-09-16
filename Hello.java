@@ -3,6 +3,7 @@ class HelloWorld {
 	{
 		System.out.println("Hello, World");
 		System.out.println("Simran Roll No: 2022sp93047");
-		System.out.println("Bye, World!");
+		System.out.println("This is contributor 2");
+		System.out.println("Changes done by Tushar");
 	}
 }
